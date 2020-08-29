@@ -1,15 +1,26 @@
 {
   "bannerads":"true",
   "interstitialads":"false",
-  "bacaan":[
-    {"tgl":"0901", "bac1":"Yeh 1:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0902", "bac1":"Yeh 2:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0903", "bac1":"Yeh 3:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0904", "bac1":"Yeh 4:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0905", "bac1":"Yeh 5:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0906", "bac1":"Yeh 6:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0907", "bac1":"Yeh 7:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0908", "bac1":"Yeh 8:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
-    {"tgl":"0909", "bac1":"Yeh 9:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"}
+   "bacaan01":[
+    {"tgl":1, "bac1":"Yer 1:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":2, "bac1":"Yer 2:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":3, "bac1":"Yer 3:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":4, "bac1":"Yer 4:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":5, "bac1":"Yer 5:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":6, "bac1":"Yer 6:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":7, "bac1":"Yer 7:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":8, "bac1":"Yer 8:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":9, "bac1":"Yer 9:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"}
+  ]
+  "bacaan09":[
+    {"tgl":1, "bac1":"Yeh 1:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":2, "bac1":"Yeh 2:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":3, "bac1":"Yeh 3:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":4, "bac1":"Yeh 4:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":5, "bac1":"Yeh 5:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":6, "bac1":"Yeh 6:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":7, "bac1":"Yeh 7:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":8, "bac1":"Yeh 8:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
+    {"tgl":9, "bac1":"Yeh 9:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"}
   ]
 }
