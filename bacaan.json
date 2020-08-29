@@ -1,7 +1,7 @@
 {
   "bannerads":"true",
   "interstitialads":"false",
-   "bacaan01":[
+  "bacaan01":[
     {"tgl":1, "bac1":"Yer 1:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
     {"tgl":2, "bac1":"Yer 2:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
     {"tgl":3, "bac1":"Yer 3:1-10", "bac2":"1Kor 5:1-5", "bacinj":"Mat 5:5-10"},
