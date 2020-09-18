@@ -1,0 +1,96 @@
+1
+< 0 14000 >
+Inilah daftar keturunan Adam. Pada waktu manusia itu diciptakan oleh Allah, dibuat-Nyalah dia menurut rupa Allah;
+2
+< 14000 30600 >
+laki-laki dan perempuan diciptakan-Nya mereka. Ia memberkati mereka dan memberikan nama "Manusia" kepada mereka, pada waktu mereka diciptakan.
+3
+< 30600 47800 >
+Setelah Adam hidup seratus tiga puluh tahun, ia memperanakkan seorang laki-laki menurut rupa dan gambarnya, lalu memberi nama Set kepadanya.
+4
+< 47800 62800 >
+Umur Adam, setelah memperanakkan Set, delapan ratus tahun, dan ia memperanakkan anak-anak lelaki dan perempuan.
+5
+< 62800 72900 >
+Jadi Adam mencapai umur sembilan ratus tiga puluh tahun, lalu ia mati.
+6
+< 72900 81400 >
+Setelah Set hidup seratus lima tahun, ia memperanakkan Enos.
+7
+< 81400 97900 >
+Dan Set masih hidup delapan ratus tujuh tahun, setelah ia memperanakkan Enos, dan ia memperanakkan anak-anak lelaki dan perempuan.
+8
+< 97900 107700 >
+Jadi Set mencapai umur sembilan ratus dua belas tahun, lalu ia mati.
+9
+< 107700 117000 >
+Setelah Enos hidup sembilan puluh tahun, ia memperanakkan Kenan.
+10
+< 117000 133000 >
+Dan Enos masih hidup delapan ratus lima belas tahun, setelah ia memperanakkan Kenan, dan ia memperanakkan anak-anak lelaki dan perempuan.
+11
+< 133000 141200 >
+Jadi Enos mencapai umur sembilan ratus lima tahun, lalu ia mati.
+12
+< 141200 149600 >
+Setelah Kenan hidup tujuh puluh tahun, ia memperanakkan Mahalaleel.
+13
+< 149600 165900 >
+Dan Kenan masih hidup delapan ratus empat puluh tahun, setelah ia memperanakkan Mahalaleel, dan ia memperanakkan anak-anak lelaki dan perempuan.
+14
+< 165900 174600 >
+Jadi Kenan mencapai umur sembilan ratus sepuluh tahun, lalu ia mati.
+15
+< 174600 183500 >
+Setelah Mahalaleel hidup enam puluh lima tahun, ia memperanakkan Yared.
+16
+< 183500 198600 >
+Dan Mahalaleel masih hidup delapan ratus tiga puluh tahun, setelah ia memperanakkan Yared, dan ia memperanakkan anak-anak lelaki dan perempuan.
+17
+< 198600 209000 >
+Jadi Mahalaleel mencapai umur delapan ratus sembilan puluh lima tahun, lalu ia mati.
+18
+< 209000 218500 >
+Setelah Yared hidup seratus enam puluh dua tahun, ia memperanakkan Henokh.
+19
+< 218500 234300 >
+Dan Yared masih hidup delapan ratus tahun, setelah ia memperanakkan Henokh, dan ia memperanakkan anak-anak lelaki dan perempuan.
+20
+< 234300 243700 >
+Jadi Yared mencapai umur sembilan ratus enam puluh dua tahun, lalu ia mati.
+21
+< 243700 253200 >
+Setelah Henokh hidup enam puluh lima tahun, ia memperanakkan Metusalah.
+22
+< 253200 272100 >
+Dan Henokh hidup bergaul dengan Allah selama tiga ratus tahun lagi, setelah ia memperanakkan Metusalah, dan ia memperanakkan anak-anak lelaki dan perempuan.
+23
+< 272100 279000 >
+Jadi Henokh mencapai umur tiga ratus enam puluh lima tahun.
+24
+< 279000 291300 >
+Dan Henokh hidup bergaul dengan Allah, lalu ia tidak ada lagi, sebab ia telah diangkat oleh Allah.
+25
+< 291300 300200 >
+Setelah Metusalah hidup seratus delapan puluh tujuh tahun, ia memperanakkan Lamekh.
+26
+< 300200 316900 >
+Dan Metusalah masih hidup tujuh ratus delapan puluh dua tahun, setelah ia memperanakkan Lamekh, dan ia memperanakkan anak-anak lelaki dan perempuan.
+27
+< 316900 327500 >
+Jadi Metusalah mencapai umur sembilan ratus enam puluh sembilan tahun, lalu ia mati.
+28
+< 327500 337600 >
+Setelah Lamekh hidup seratus delapan puluh dua tahun, ia memperanakkan seorang anak laki-laki,
+29
+< 337600 355900 >
+dan memberi nama Nuh kepadanya, katanya: "Anak ini akan memberi kepada kita penghiburan dalam pekerjaan kita yang penuh susah payah di tanah yang telah terkutuk oleh TUHAN."
+30
+< 355900 370700 >
+Dan Lamekh masih hidup lima ratus sembilan puluh lima tahun, setelah ia memperanakkan Nuh, dan ia memperanakkan anak-anak lelaki dan perempuan.
+31
+< 370700 379800 >
+Jadi Lamekh mencapai umur tujuh ratus tujuh puluh tujuh tahun, lalu ia mati.
+32
+< 379800 999999 >
+Setelah Nuh berumur lima ratus tahun, ia memperanakkan Sem, Ham dan Yafet.
